@@ -1,5 +1,7 @@
+                                                Coding Interview Questions                   
 # run-length-encoding
 
+Difficulty: easy
 
   Write a function that takes in a non-empty string and returns its run-length
   encoding. From Wikipedia, "run-length encoding is a form of lossless data compression in
